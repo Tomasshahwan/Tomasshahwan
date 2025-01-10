@@ -33,4 +33,6 @@ Feel free to explore, fork, and contribute to any of my repositories. Feedback a
 ## Contact
 
 - **Email**: Tomasios1009@gmail.com
+- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas%20Shahwan-blue?logo=linkedin)](https://www.linkedin.com/in/tomas-shahwan-906637287/)
+
 
