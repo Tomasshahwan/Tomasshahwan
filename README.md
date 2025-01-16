@@ -1,4 +1,4 @@
-# **Welcome to the GitHub of Tomass Shahwan!**
+# **Welcome to the GitHub of Tomas Shahwan!**
 
 I am Tomass Shahwan, a final-year Computer Science student. Here, you can explore a variety of projects I've worked on during my studies, focusing on areas like object-oriented programming, machine learning, software engineering, and more.
 
