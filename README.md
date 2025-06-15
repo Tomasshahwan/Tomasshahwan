@@ -1,13 +1,7 @@
-<div align="center">
-
-<!-- Title Banner -->
 <!-- Title Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Tomas%20Shahwan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student&descAlignY=58&descAlign=50"/>
 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-shahwan-906637287/)
-
-</div>
 
 ---
 
@@ -36,6 +30,9 @@ During my academic journey, I explored everything from object-oriented software 
 <tr><td>📡 <a href="https://github.com/Tomasshahwan/IOT_FINAL_PROJECT">IoT Smart Parking System</a></td>
 <td>Real-time smart parking management using sensors, MQTT, and GUI simulation.</td></tr>
 
+<tr><td>🧾 <a href="https://github.com/Tomasshahwan/Server-Side-Cost-Managment">Server‑Side Cost Management</a></td>
+<td>Modular Node.js API for tracking and calculating cost entries.</td></tr>
+
 <tr><td>❤️ <a href="https://github.com/Tomasshahwan/HeartStopper">HeartStopper</a></td>
 <td>Creative Java project inspired by the *Heartstopper* series.</td></tr>
 
@@ -52,6 +49,7 @@ During my academic journey, I explored everything from object-oriented software 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-FF8200?style=flat&logo=apache&logoColor=white)
@@ -62,32 +60,27 @@ During my academic journey, I explored everything from object-oriented software 
 
 ## 📬 Let's Connect
 
-<p align="left">
-  <a href="mailto:Tomasios1009@gmail.com">
-    <img src="https://img.shields.io/badge/-Tomasios1009@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tomas-shahwan-906637287/">
-    <img src="https://img.shields.io/badge/-LinkedIn-6366F1?style=flat&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/Tomasshahwan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:Tomasios1009@gmail.com">
+  <img src="https://img.shields.io/badge/-Tomasios1009@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tomas-shahwan-906637287/">
+  <img src="https://img.shields.io/badge/-LinkedIn-6366F1?style=flat&logo=linkedin&logoColor=white" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/Tomasshahwan">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomasshahwan&show_icons=true&theme=nightowl" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomasshahwan&theme=nightowl" width="45%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Tomasshahwan&show_icons=true&theme=nightowl" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tomasshahwan&theme=nightowl" width="45%">
 
 ---
 
-<p align="center">
-  <em>“Code like there's no bug. Commit like no one's watching.” 💻</em>
-</p>
+_“Code like there's no bug. Commit like no one's watching.” 💻_
+
 
 
 
