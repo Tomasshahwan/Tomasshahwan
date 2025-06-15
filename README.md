@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Hello World!
+## 👋 Hello!
 
 I’m **Tomas Shahwan**, a passionate and curious Computer Science student in my final year.  
 During my academic journey, I explored everything from object-oriented software design to machine learning and mobile development — and I’m just getting started 🚀
