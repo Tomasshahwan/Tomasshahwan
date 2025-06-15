@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Title Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=200&section=header&text=Tomas%20Shahwan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20IoT%20&%20Software%20Projects%20Explorer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Tomas%20Shahwan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Tech%20Explorer%20%7C%20Fullstack%20Mindset&descAlignY=58&descAlign=50"/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-shahwan-906637287/)
 
 </div>
 
@@ -26,8 +28,11 @@ During my academic journey, I explored everything from object-oriented software 
 <tr><td>📚 <a href="https://github.com/Tomasshahwan/SWProject">SWProject</a></td>
 <td>Final Software Engineering project – online learning platform.</td></tr>
 
-<tr><td>🧮 <a href="https://github.com/Tomasshahwan/Android-Calculator">Android Calculator</a></td>
+<tr><td>📱 <a href="https://github.com/Tomasshahwan/Android-Calculator">Android Calculator</a></td>
 <td>Mobile calculator app developed in Android Studio.</td></tr>
+
+<tr><td>📡 <a href="https://github.com/Tomasshahwan/IOT_FINAL_PROJECT">IoT Smart Parking System</a></td>
+<td>Real-time smart parking management using sensors, MQTT, and GUI simulation.</td></tr>
 
 <tr><td>❤️ <a href="https://github.com/Tomasshahwan/HeartStopper">HeartStopper</a></td>
 <td>Creative Java project inspired by the *Heartstopper* series.</td></tr>
@@ -47,7 +52,9 @@ During my academic journey, I explored everything from object-oriented software 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-FF8200?style=flat&logo=apache&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ---
 
@@ -57,8 +64,8 @@ During my academic journey, I explored everything from object-oriented software 
   <a href="mailto:Tomasios1009@gmail.com">
     <img src="https://img.shields.io/badge/-Tomasios1009@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tomas-shahwan-906637287/">
+    <img src="https://img.shields.io/badge/-LinkedIn-6366F1?style=flat&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;
   <a href="https://github.com/Tomasshahwan">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -70,8 +77,8 @@ During my academic journey, I explored everything from object-oriented software 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomasshahwan&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomasshahwan&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomasshahwan&show_icons=true&theme=nightowl" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tomasshahwan&theme=nightowl" width="45%">
 </div>
 
 ---
@@ -79,6 +86,7 @@ During my academic journey, I explored everything from object-oriented software 
 <p align="center">
   <em>“Code like there's no bug. Commit like no one's watching.” 💻</em>
 </p>
+
 
 
 
